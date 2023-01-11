@@ -7,9 +7,7 @@
 * The model will return the meaning of the quote in the image
 
 **Example**
-[![Watch the video](https://github.com/Nandusasikumar1/Quote-meaning-nlp/blob/main/appdemo3.JPG)](https://github.com/Nandusasikumar1/Quote-meaning-nlp/blob/main/921b5329-f1ce-44f0-8618-5a2cd494e6ef.mp4)
 
-https://github.com/Nandusasikumar1/Quote-meaning-nlp/blob/main/921b5329-f1ce-44f0-8618-5a2cd494e6ef.mp4
 
 ![](https://github.com/Nandusasikumar1/Quote-meaning-nlp/blob/main/appdemo2.JPG)
 
