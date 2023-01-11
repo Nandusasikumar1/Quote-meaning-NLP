@@ -1,7 +1,7 @@
 ### Quote to meaning is an NLP project that uses openai's Davinci 003 language model.
 
-*Project desctiption*:
-* Converts an quote image to a binary image using opencv
+*Project description*:
+* Converts a quote image to a binary image using opencv
 * Used pytesseract to detect text in the image 
 * Pass this text detected by pytesseract to the Davinci 003 language model using openai's python api
 * The model will return the meaning of the quote in the image
