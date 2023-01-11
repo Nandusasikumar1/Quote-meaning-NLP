@@ -7,7 +7,7 @@
 * The model will return the meaning of the quote in the image
 
 **Example**
-https://github.com/Nandusasikumar1/Quote-meaning-nlp/blob/main/921b5329-f1ce-44f0-8618-5a2cd494e6ef.webm
+![]https://github.com/Nandusasikumar1/Quote-meaning-nlp/blob/main/921b5329-f1ce-44f0-8618-5a2cd494e6ef.webm
 
 ![](https://github.com/Nandusasikumar1/Quote-meaning-nlp/blob/main/appdemo2.JPG)
 
