@@ -6,7 +6,7 @@
 * Pass this text detected by pytesseract to the Davinci 003 language model using openai's python api
 * The model will return the meaning of the quote in the image
 
-**Click on the below image to see an Example**
+
 
 ![](https://github.com/Nandusasikumar1/Quote-meaning-nlp/blob/main/appdemo2.JPG)]
 
