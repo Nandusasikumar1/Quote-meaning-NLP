@@ -1,4 +1,4 @@
-### Quote Explainer  is an NLP project that uses openai's Davinci 003 language model.
+### Quote Explainer  is an NLP project that uses openai's Text Davinci 003 language model.
 
 *Project description*:
 * Converts a quote image to a binary image using opencv
